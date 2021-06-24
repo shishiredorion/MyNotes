@@ -106,7 +106,7 @@
 
 - 授课方式：主要使用PPT，教材辅之
 - 授课老师：Dingjiang Huang
-- [教材1]([矩阵分析与应用 (豆瓣) (douban.com)](https://book.douban.com/subject/1257113/)) [教材2](https://book.douban.com/subject/21267860/) (这些书我不确定是否为教材，因为课上涉及过的书很多，我上课划水也具体分不清)
+- [教材1](https://book.douban.com/subject/1257113/) [教材2](https://book.douban.com/subject/21267860/) (这些书我不确定是否为教材，因为课上涉及过的书很多，我上课划水也具体分不清)
 
 
 
