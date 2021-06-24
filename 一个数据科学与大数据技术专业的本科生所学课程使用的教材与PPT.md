@@ -46,7 +46,6 @@
 
 - 授课方式：教材与PPT结合
 - 授课老师：Weining Qian
-
 - [教材](https://book.douban.com/subject/27000879/)
 - [PPT](http://csapp.cs.cmu.edu/3e/instructors.html)
 
@@ -56,7 +55,6 @@
 
 - 授课方式：主要依靠PPT，教材很少用到
 - 授课老师：Huiqi Hu
-
 - [教材](https://book.douban.com/subject/1215873/)
 
 
@@ -66,7 +64,6 @@
 - 授课方式：教材与PPT结合
 - 授课老师：Ming Gao
 - [教材](https://book.douban.com/subject/26316200/)
-
 - [PPT](http://dase.ecnu.edu.cn/mgao/pages/teaching.htmlhttp://dase.ecnu.edu.cn/mgao/pages/teaching.html)（请自行查阅最新版本的PPT）
 
 
@@ -74,7 +71,6 @@
 数据科学与工程导论
 
 - 授课方式：无教材，全程依赖PPT
-
 - 授课老师：Wei Wang
 - PPT：嘉数汇（老师个人公众号）
 
@@ -88,8 +84,7 @@
 
 - 授课方式：教材与PPT结合
 - 授课老师：Weining Qian
-- [教材](https://book.douban.com/subject/25794324/)
-
+- [教材](https://book.douban.com/subject/26694188/)
 - PPT应该是为官方提供的PPT，我找不到，还得自行搜寻了
 
 
@@ -126,8 +121,6 @@
 
 
 
-
-
 #### 大二暑期学期
 
 
@@ -135,7 +128,6 @@
 信息可视化
 
 - 授课方式：不确定，摸鱼过多忘了，应该是PPT为主，教材为辅
-
 - 授课老师：Ye Wang
 - [教材](https://book.douban.com/subject/26378430/)
 
@@ -250,7 +242,6 @@
 
 - 授课方式：全程PPT，无教材
 - 授课老师：Rong Zhang
-
 - 推荐过一本书，但具体不记得了
 
 
